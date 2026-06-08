@@ -1,0 +1,7 @@
+Winner: GradientBoostingClassifier
+Test accuracy: 0.7648
+
+All models:
+  LogisticRegression: accuracy=0.7508, cv_mean=0.7527
+  RandomForestClassifier: accuracy=0.7560, cv_mean=0.7664
+  GradientBoostingClassifier: accuracy=0.7648, cv_mean=0.7709

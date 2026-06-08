@@ -1,0 +1,8 @@
+streamlit
+altair==5.4.1
+streamlit-drawable-canvas
+opencv-python-headless
+numpy
+scikit-learn
+joblib
+pandas
