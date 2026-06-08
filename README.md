@@ -150,7 +150,7 @@ python -m pip install fastapi uvicorn pydantic requests
 ---
 
 ## Lancer l'application
-
+lien url: https://ml01webapp-uwfe8nryywihzdycholanz.streamlit.app/
 ### Mode A — Standalone (recommandé)
 
 ```
