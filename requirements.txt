@@ -1,8 +1,6 @@
-streamlit
-altair==5.4.1
-streamlit-drawable-canvas
-opencv-python-headless
-numpy
-scikit-learn
-joblib
-pandas
+streamlit==1.47.1
+scikit-learn==1.8.0
+numpy==2.4.4
+scipy==1.17.1
+joblib==1.5.3
+pandas==2.3.3
